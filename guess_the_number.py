@@ -2,7 +2,7 @@
 
 import random
 secretNumber = random.randint(1,25)
-print("I am think of a number 1 and 25.")
+print("I am thinking of a number 1 and 25.")
 
 # Ask the player to guess 7 times
 for guessesTaken in range(1,8):
